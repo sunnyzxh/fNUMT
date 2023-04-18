@@ -25,12 +25,12 @@ All the three softwares are available under the bin folder
 ***
 ### Installing
     
-    wget https://github.com/sunnyzxh/fNUMT/archive/v1.1.zip
-    unzip v1.1.zip
-    cd fNUMT-1.1
+    git clone https://github.com/sunnyzxh/fNUMT.git
+    cd fNUMT
+    cd bin
+    unzip blastn.zip
 
 #### Running the test
-    cd bin
     chmod 777 samtools
     chmod 777 cap3
     chmod 777 blastn
