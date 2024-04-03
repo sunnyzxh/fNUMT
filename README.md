@@ -1,6 +1,8 @@
 # fNUMT (v1.1)
 fNUMT is a framework for detecting non-ref NUMTs and the derived NUMT-FPs from short-read whole genome sequencing data
 
+Citation: Zhuang, X., Ye, R., Zhou, Y. et al. Leveraging new methods for comprehensive characterization of mitochondrial DNA in esophageal squamous cell carcinoma. Genome Med 16, 50 (2024). https://doi.org/10.1186/s13073-024-01319-2
+
 ## Getting Started
 fNUMT is written in perl
 
