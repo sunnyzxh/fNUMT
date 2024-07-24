@@ -66,7 +66,7 @@ Function
 
 Usage
     
-    perl fNUMT.pl -b example.bam -s sample.name -o outdir
+    perl fNUMT.pl -b example.bam -s sample.name -ref hg19 -o outdir
 
 Options
    
@@ -75,6 +75,8 @@ Options
     -b|-bam      [s]    bam file
     
     -s|-sample   [s]    sample name
+
+    -r|-ref      [s]    reference genome (hg19/hg38)
     
     -o|-outdir   [s]    output dir
 
